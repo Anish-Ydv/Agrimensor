@@ -1,0 +1,68 @@
+[33mcommit 40ed1fe69461b7a0bf12bc40b4a264531b29531e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Anish-Ydv <anish.yadav11@gmail.com>
+Date:   Fri Sep 11 17:01:42 2020 +0530
+
+    My Final change
+
+[33mcommit f5598f49b247bee2d06f0a6078c14c1c029627f7[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: dcb874d 2adeaf9
+Author: Anish-Ydv <anish.yadav11@gmail.com>
+Date:   Fri Sep 11 16:02:21 2020 +0530
+
+    Merge branch 'master' of https://github.com/Anish-Ydv/Repo into master
+
+[33mcommit dcb874dc65453335b3a14f007223152d44392664[m
+Author: Anish-Ydv <anish.yadav11@gmail.com>
+Date:   Fri Sep 11 16:02:07 2020 +0530
+
+    Text changed again
+
+[33mcommit 2adeaf9c099ef4d1d8a681c9e40478be1f6d6772[m
+Merge: 8cf33a5 a9a64a9
+Author: Anish-Ydv <anish.yadav11@gmail.com>
+Date:   Fri Sep 11 15:59:26 2020 +0530
+
+    Merge branch 'master' of http://github.com/Anish-Ydv/Repo into master
+
+[33mcommit 8cf33a593a88a019aa43b8f2019268270524533c[m
+Author: Anish-Ydv <anish.yadav11@gmail.com>
+Date:   Fri Sep 11 15:58:55 2020 +0530
+
+    New txt file in Master
+
+[33mcommit a9a64a971ea2547524d5e05cbbf872a11d967c11[m
+Author: Anish-Ydv <anish.yadav11@gmail.com>
+Date:   Fri Sep 11 15:57:44 2020 +0530
+
+    New txt file in clone
+
+[33mcommit c17332137ce739cc1b5fc513d6200a8281d59a61[m
+Merge: 4011945 d5b95c3
+Author: Anish-Ydv <anish.yadav11@gmail.com>
+Date:   Fri Sep 11 15:52:05 2020 +0530
+
+    Merge branch 'master' of https://github.com/Anish-Ydv/Repo into master
+
+[33mcommit 4011945740d94763237d8cc0e71ac1894932cab8[m
+Author: Anish-Ydv <anish.yadav11@gmail.com>
+Date:   Fri Sep 11 15:48:43 2020 +0530
+
+    Txt Changed
+
+[33mcommit d5b95c3860df2b28af826ad313d334fc24df3cab[m
+Author: Anish-Ydv <anish.yadav11@gmail.com>
+Date:   Fri Sep 11 15:48:06 2020 +0530
+
+    HTML changed
+
+[33mcommit e154e9d837f27b3aecdbed9053bfbc2e24b50546[m
+Author: Anish-Ydv <anish.yadav11@gmail.com>
+Date:   Fri Sep 11 15:21:42 2020 +0530
+
+    My second commit
+
+[33mcommit fdb404207f2c5d1b7f371fcdbea806d33b7f6133[m
+Author: Anish-Ydv <anish.yadav11@gmail.com>
+Date:   Fri Sep 11 13:45:58 2020 +0530
+
+    My First Commit
