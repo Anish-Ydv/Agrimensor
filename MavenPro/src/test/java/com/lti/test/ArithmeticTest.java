@@ -19,4 +19,9 @@ public class ArithmeticTest {
 	public void testSum() {
 		assertEquals(10,arth.sum(4, 6));
 	}
+	
+	@Test
+	public void testDifference() {
+		assertEquals(2,arth.difference(6, 4));
+	}
 }
